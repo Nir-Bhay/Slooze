@@ -1,0 +1,5 @@
+{
+  "name": "Slooze Food Ordering",
+  "description": "A robust, role-based food ordering application with region locking and strict access control.",
+  "requestFramePermissions": []
+}
